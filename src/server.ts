@@ -16,5 +16,4 @@ server.use(errorHandle);
 
 server.listen(3000, () => {
     console.log("servidor esta rodando no link: http://localhost:3000");
-
 });
